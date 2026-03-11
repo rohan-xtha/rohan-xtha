@@ -117,7 +117,7 @@ I'm always open to collaborating on interesting projects or discussing tech.
 
 **📧 rohanOmaske@gmail.com** · **📍 Kathmandu, Nepal**
 
-![Visitors](https://komarev.com/ghpvc/?username=rohan-xtha&style=for-the-badge&color=00d4ff)
+![Visitors](https://rohan-xtha.github.io/new-portfolio/)
 
 </div>
 
