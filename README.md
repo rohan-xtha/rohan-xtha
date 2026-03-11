@@ -99,11 +99,11 @@ GUI-based taxi booking system with structured backend logic, input validation, b
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/output/github-snake-dark.svg)
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-xtha&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00d4ff&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6)](https://github.com/rohan-xtha)
 
 </div>
 
@@ -117,7 +117,7 @@ I'm always open to collaborating on interesting projects or discussing tech.
 
 **📧 rohanOmaske@gmail.com** · **📍 Kathmandu, Nepal**
 
-![Visitors](https://rohan-xtha.github.io/new-portfolio/)
+![Visitors](https://komarev.com/ghpvc/?username=rohan-xtha&style=for-the-badge&color=00d4ff)
 
 </div>
 
