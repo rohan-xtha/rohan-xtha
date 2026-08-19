@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/header.png" alt="Header Image" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/assets/header.png" alt="Header Image" width="100%"/>
 </div>
 
 <div align="center">
