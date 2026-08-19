@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0b1628,100:020617&height=260&section=header&text=Hi,%20I'm%20Rohan&fontSize=44&fontColor=93C5FD&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Security%20Enthusiast&descSize=15&descColor=CBD5E1&descAlignY=58" width="100%"/>
+<div align="center" style="background-color: #0d1117; padding: 40px 20px; border-radius: 8px;">
+  <h1 style="color: #58a6ff; font-size: 48px; font-weight: bold; margin: 0;">Hi, I'm Rohan</h1>
+  <p style="color: #c9d1d9; font-size: 18px; margin-top: 10px;">Full Stack Developer | Problem Solver | Security Enthusiast</p>
 </div>
 
 <div align="center">
