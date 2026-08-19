@@ -1,6 +1,5 @@
-<div align="center" style="background-color: #0d1117; padding: 40px 20px; border-radius: 8px;">
-  <h1 style="color: #58a6ff; font-size: 48px; font-weight: bold; margin: 0;">Hi, I'm Rohan</h1>
-  <p style="color: #c9d1d9; font-size: 18px; margin-top: 10px;">Full Stack Developer | Problem Solver | Security Enthusiast</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/assets/header_with_text.svg" alt="Rohan Shrestha - Full Stack Developer" width="100%"/>
 </div>
 
 <div align="center">
