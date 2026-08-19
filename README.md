@@ -1,167 +1,358 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,50:0F1B33,100:0B1120&height=230&section=header" width="100%"/>
+
+# 👋 Hi, I'm YOUR NAME
+
+### `Developer` · `College Student` · `Tech Enthusiast` · `Gamer`
+
+<p>
+<img src="https://img.shields.io/badge/🚀_Building-Cool_Things-0b1220?style=for-the-badge&labelColor=0b1220&color=2563eb">
+<img src="https://img.shields.io/badge/💡_Always-Learning-0b1220?style=for-the-badge&labelColor=0b1220&color=3b82f6">
+<img src="https://img.shields.io/badge/🎮_Game-Lover-0b1220?style=for-the-badge&labelColor=0b1220&color=60a5fa">
+</p>
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=60a5fa">
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=60a5fa">
+</a>
+</p>
+
 </div>
 
-<br clear="both">
-
-<table width="100%">
-<tr>
-<td width="15%" align="center">
-<img src="https://github.com/rohan-xtha.png" width="100" style="border-radius:50%;" />
-</td>
-<td width="85%">
-
-## Hi, I'm **Rohan** 👋
-
-Full Stack Developer &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; Aspiring Security Engineer
-
-`🚀 Building cool things` &nbsp; `🔐 Always learning security` &nbsp; `🤝 Open to collaborate`
-
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-0F1B33?style=flat-square&logoColor=38BDF8)](https://rohan-xtha.github.io/new-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/rohan-shrestha-379340367)
-[![Instagram](https://img.shields.io/badge/Instagram-0F1B33?style=flat-square&logo=instagram&logoColor=38BDF8)](https://instagram.com/rohan_stha/)
-[![Email](https://img.shields.io/badge/✉️_Email-0F1B33?style=flat-square&logoColor=38BDF8)](mailto:rohanOmaske@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 👋 About Me
 
-<table width="100%">
+<table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%">
 
-I'm a Full Stack Developer who loves turning ideas into working applications. I build with the **MERN stack**, and I'm steadily working my way into **cybersecurity** — network security, secure coding, and ethical hacking fundamentals.
+I'm a college student who loves **technology, computers, games, and music**.
+
+I enjoy learning how things work, building projects, experimenting with new technologies, and turning ideas into something real.
+
+- 💻 Programming & Computers
+- 🎮 Games & Game Development
+- 🎵 Music
+- 🌐 Web Development
+- 🧠 Learning New Technologies
+- 🛠️ Building Personal Projects
+- 🚀 Exploring New Ideas
 
 </td>
-<td width="35%" valign="top">
 
-📍 Kathmandu, Nepal &nbsp;🇳🇵
-🎓 Software Engineering Student
-🟢 **Open to Collaborate**
+<td width="35%">
+
+| ABOUT ME |
+|:---|
+| 📍 Nepal |
+| 🎓 College Student |
+| 💻 Developer |
+| 🎮 Gamer |
+| 🎵 Music Lover |
+| 🧠 Always Learning |
+| 🚀 Building Things |
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+<div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,docker,vscode,linux,figma&perline=10">
 
-<img src="https://skillicons.dev/icons?i=js,py,html,css&theme=dark" />
+</div>
 
-</td>
-<td width="25%" valign="top">
+---
 
-**Frontend**
+## 📊 GitHub Statistics
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<div align="center">
 
-</td>
-<td width="25%" valign="top">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&rank_icon=github">
 
-**Backend**
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+</div>
 
-</td>
-<td width="25%" valign="top">
+---
 
-**Tools & Others**
+## 🔥 Contribution Streak
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0b1220&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=64748b">
 
-<br>
+</div>
 
-## 📊 GitHub Stats
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+## 🌌 Contribution Activity
 
-**Overview**
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9&count_private=true" width="100%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b1220&color=93c5fd&line=3b82f6&point=60a5fa&area=true&hide_border=true">
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
 
-**Streak**
-
-<img src="https://streak-stats.demolab.com?user=rohan-xtha&hide_border=true&background=0F1B33&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1" width="100%"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**Top Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&hide_border=true&bg_color=0F1B33&title_color=38BDF8&text_color=CBD5E1" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### 🅿️ Smart Parking System
-🥈 2nd Place — Sankalpa Hackathon
+<td width="50%">
 
-Full-stack smart parking platform with real-time slot availability, automated booking & optimized space utilization.
+### 💻 Project One
 
-`React` `Node.js` `REST API` `PostgreSQL`
+A modern project built to solve a real-world problem.
+
+**Technology**
+
+`React` `TypeScript` `Node.js`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🚕 Taxi Booking System
+<td width="50%">
 
-GUI-based taxi booking system with structured backend logic, input validation & record management using OOP.
+### ⚡ Project Two
 
-`Python` `OOP` `GUI`
+A powerful application focused on performance and usability.
 
-[![Stars](https://img.shields.io/github/stars/rohan-xtha/taxi_booking_system?style=flat-square&color=0EA5E9&labelColor=0F1B33)](https://github.com/rohan-xtha/taxi_booking_system)
-[![Forks](https://img.shields.io/github/forks/rohan-xtha/taxi_booking_system?style=flat-square&color=0EA5E9&labelColor=0F1B33)](https://github.com/rohan-xtha/taxi_booking_system/network/members)
+**Technology**
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎮 Project Three
+
+An experimental project inspired by games and interactive experiences.
+
+**Technology**
+
+`JavaScript` `React` `Three.js`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧩 Project Four
+
+A collection of reusable components and development tools.
+
+**Technology**
+
+`React` `Tailwind` `TypeScript`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧊 What I'm Doing
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+**CODING**
+
+Building projects and learning development.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮
+
+**GAMING**
+
+Exploring games and interactive worlds.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎵
+
+**MUSIC**
+
+Listening to music while creating.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**LEARNING**
+
+Exploring new technology.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td>
+
+💻 **Building**
+
+Personal projects and experiments
+
+</td>
+<td>
+
+🌱 **Learning**
+
+Modern web technologies
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🎮 **Exploring**
+
+Game development
+
+</td>
+<td>
+
+🎵 **Enjoying**
+
+Music while coding
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧠 **Improving**
+
+Programming skills
+
+</td>
+<td>
+
+🚀 **Creating**
+
+Things worth sharing
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1">
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge">
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-Let's connect and build something amazing together!
-
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-0F1B33?style=for-the-badge&logoColor=38BDF8)](https://rohan-xtha.github.io/new-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/rohan-shrestha-379340367)
-[![Instagram](https://img.shields.io/badge/Instagram-0F1B33?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://instagram.com/rohan_stha/)
-[![Email](https://img.shields.io/badge/✉️_Email-0F1B33?style=for-the-badge&logoColor=38BDF8)](mailto:rohanOmaske@gmail.com)
+### Let's build something cool together.
 
 <br>
 
-<sub>© 2026 Rohan Shrestha &nbsp;·&nbsp; Built with 🩵 and lots of ☕</sub>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=60a5fa">
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,50:0F1B33,100:0B1120&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### 🌙 Keep building. Keep learning. Keep exploring.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f2a55,100:2563eb&height=120&section=footer">
+
+<br>
+
+<sub>Built with 💙 and lots of ☕</sub>
+
+</div>
