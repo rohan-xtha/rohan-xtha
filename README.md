@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rohan-xtha-readme-header.vercel.app/api?name=Rohan&title=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Security%20Enthusiast" alt="Rohan Shrestha - Full Stack Developer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rohan%20Shrestha&fontSize=70" alt="Rohan Shrestha - Full Stack Developer" width="100%"/>
 </div>
 
 <div align="center">
