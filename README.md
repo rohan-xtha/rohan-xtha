@@ -1,127 +1,375 @@
-# 👋 Hi, I'm Rohan Shrestha
+<div align="center">
 
-### 🚀 Software Engineering Student | Full-Stack Developer | Future Cybersecurity Engineer
+# `>_ Rohan Shrestha`
 
-I'm a Software Engineering student from Nepal who loves building practical software, exploring new technologies, and turning ideas into real-world projects.
+### `Software Engineering Student • Full-Stack Developer • Cybersecurity Enthusiast`
 
-I enjoy learning by **building, experimenting, breaking things, and fixing them**. My current focus is full-stack web development, backend engineering, and gradually moving toward cybersecurity and ethical hacking.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+solve+real+problems.;Learning+by+building%2C+breaking+%26+fixing.;Exploring+Full-Stack+%7C+Backend+%7C+Cybersecurity.;Turning+ideas+into+working+software." alt="Typing SVG">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohan-xtha&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge" alt="Profile Views">
+
+<br><br>
+
+<a href="https://github.com/rohan-xtha">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
+
+<a href="https://rohan-xtha.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF">
+</a>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-- 🎓 BSc (Hons) Software Engineering student
-- 💻 Currently focused on Full-Stack Development
-- 🐍 Learning and building with Python
-- ⚛️ Exploring React & modern web development
-- 🔧 Interested in Backend Development & APIs
-- 🗄️ Working with databases and cloud technologies
-- 🔐 Long-term goal: Cybersecurity & Ethical Hacking
-- 🏆 Hackathon participant & project builder
-- 🌏 Based in Nepal
-- ⚡ I learn best by building real projects
+<table>
+<tr>
+<td>
+
+<b>⚡ BUILDING</b><br>
+Full-Stack Applications
+
+</td>
+<td>
+
+<b>🔧 LEARNING</b><br>
+Backend • Cloud • Cybersecurity
+
+</td>
+<td>
+
+<b>🔐 EXPLORING</b><br>
+Ethical Hacking
+
+</td>
+<td>
+
+<b>🇳🇵 LOCATION</b><br>
+Nepal
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# `01` ── ABOUT ME
 
-### 🅿️ ParkFlow
-**Smart QR-based Parking Management System**
+<table>
+<tr>
+<td width="55%">
 
-A smart parking solution designed to simplify parking management using QR technology.
+### 👨‍💻 Who am I?
 
-**Tech:** React • Node.js • MongoDB
+I'm **Rohan Shrestha**, a Software Engineering student who enjoys turning ideas into real, working software.
+
+I learn best through **hands-on development** — building projects, experimenting with technologies, breaking things, debugging them, and understanding how everything works underneath.
+
+My current journey is focused on:
+
+- ⚡ Full-Stack Development
+- 🔧 Backend Engineering
+- 🐍 Python Development
+- ⚛️ React & Modern Web Applications
+- ☁️ Cloud & DevOps
+- 🔐 Cybersecurity & Ethical Hacking
+
+</td>
+
+<td width="45%">
+
+**DEVELOPER PROFILE**
+
+`Name` → Rohan Shrestha  
+`Role` → Software Engineering Student  
+`Location` → Nepal  
+`Focus` → Full-Stack Development  
+`Backend` → Python • FastAPI • Node.js  
+`Frontend` → React • JavaScript  
+`Goal` → Software Engineer  
+`Future` → Cybersecurity & Ethical Hacking  
+
+</td>
+</tr>
+</table>
+
+---
+
+# `02` ── TECH STACK
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css" alt="Languages">
+</p>
+
+### `FRONTEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend">
+</p>
+
+### `BACKEND & DATABASE`
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,supabase" alt="Backend and Database">
+</p>
+
+### `TOOLS & ENVIRONMENT`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" alt="Tools">
+</p>
+
+---
+
+# `03` ── FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🅿️ ParkFlow
+
+### Smart QR-based Parking System
+
+A smart parking platform designed to simplify parking management using QR technology.
+
+**Stack**
+
+`React` `Node.js` `MongoDB`
 
 🏆 **2nd Place — Sankalpa Hackathon 2026**
 
----
+</td>
 
-### 🧠 MindSathi
-**AI-powered mental wellness platform**
+<td width="50%">
 
-A platform combining AI assistance with mood tracking, wellness activities, doctor services, music, yoga, and walking activities.
+## 🧠 MindSathi
 
-**Tech:** React • FastAPI • Python • AI
+### AI-powered Mental Wellness Platform
 
----
+A platform combining AI assistance with mood tracking, wellness activities, doctor services, yoga, music and walking activities.
 
-### 🏛️ Nepal Heritage
-**Smart Tourism & Heritage Platform**
+**Stack**
 
-A platform designed to help tourists explore Nepal's cultural and historical heritage through:
+`React` `FastAPI` `Python` `AI`
 
-- 🏛️ UNESCO Heritage Sites
-- 💎 Hidden Gems
-- 📅 Cultural Festival Calendar
-- 🧭 Journey Planner
-- 🥾 Trekking Destinations
-- 🤖 AI Travel Assistant
-- 🧑‍💼 Tour Operator Portal
-- 🎟️ Verified Tickets & Services
+</td>
 
----
+</tr>
 
-### 🚕 Taxi Booking System
+<tr>
 
-A desktop-based taxi booking application built as a software engineering project.
+<td width="50%">
 
-**Tech:** Python • Tkinter • CustomTkinter
+## 🏛️ Nepal Heritage
 
----
+### Smart Tourism & Heritage Platform
 
-## 🛠️ Tech Stack
+Helping visitors discover Nepal through:
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+`UNESCO Sites` `Hidden Gems` `Festivals` `Trekking` `AI Assistant`
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Stack**
 
-### Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`React` `Backend APIs` `AI`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</td>
+
+<td width="50%">
+
+## 🚕 Taxi Booking System
+
+### Desktop Taxi Management Application
+
+A software engineering project built to manage taxi bookings and related operations.
+
+**Stack**
+
+`Python` `Tkinter` `CustomTkinter`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# `04` ── CURRENT MISSION
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### ⚡ FULL-STACK
+<br>
+Development
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+### 🔧 BACKEND
+<br>
+Engineering
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+### ☁️ CLOUD
+<br>
+DevOps
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+### 🔐 CYBER
+<br>
+Security
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+### 🛡️ ETHICAL
+<br>
+HACKING
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# `05` ── GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages">
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# `06` ── CONTRIBUTION MATRIX
 
-```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-Cloud & DevOps
-        ↓
-Cybersecurity
-        ↓
-Ethical Hacking
+<div align="center">
+
+### `> tracking activity...`
+
+<img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# `07` ── DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### BUILD IT
+
+⬇️
+
+### BREAK IT
+
+⬇️
+
+### UNDERSTAND IT
+
+⬇️
+
+### FIX IT
+
+⬇️
+
+### MAKE IT BETTER
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### `I don't just want to use technology.`
+
+### `I want to understand how it works.`
+
+</div>
+
+---
+
+# `08` ── 2026 OBJECTIVES
+
+<div align="center">
+
+| Objective | Status |
+|---|---|
+| ⚡ Full-Stack Development | ████████████████░░░░ |
+| 🔧 Backend Engineering | ██████████████░░░░░░ |
+| ☁️ Cloud & DevOps | ███████████░░░░░░░░░ |
+| 🔐 Cybersecurity | ████████░░░░░░░░░░░░ |
+| 🛡️ Ethical Hacking | █████░░░░░░░░░░░░░░░ |
+| 🌐 Open Source | ████░░░░░░░░░░░░░░░░ |
+
+</div>
+
+### Goals
+
+- [ ] Build production-ready applications
+- [ ] Become stronger in backend development
+- [ ] Learn Cloud & DevOps fundamentals
+- [ ] Deepen cybersecurity knowledge
+- [ ] Start ethical hacking labs
+- [ ] Contribute to Open Source
+- [ ] Secure a Software Engineering Internship
+
+---
+
+# `09` ── CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rohan-xtha">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
+</a>
+
+<a href="https://rohan-xtha.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> system.shutdown()`
+
+**Thanks for visiting my profile. 🚀**
+
+<br>
+
+`BUILD • BREAK • LEARN • IMPROVE`
+
+</div>
