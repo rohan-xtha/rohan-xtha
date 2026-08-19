@@ -1,75 +1,79 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:8b5cf6,100:ec4899&height=230&section=header&text=Rohan%20Shrestha&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Aspiring%20Security%20Engineer&descSize=18&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00ff9f,100:0a0e27&height=250&section=header&text=ROHAN%20SHRESTHA&fontSize=48&fontColor=00ff9f&fontAlignY=35&desc=%3C%20Full-Stack%20Developer%20%2F%2F%20Securing%20the%20Stack%20%3E&descSize=16&descAlignY=55&animation=twinkling&fontFamily=monospace)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rohan-xtha.github.io/new-portfolio/)
-[![Instagram](https://img.shields.io/badge/@rohan__stha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohan_stha/)
-[![LinkedIn](https://img.shields.io/badge/Rohan_Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-shrestha-379340367)
-[![Gmail](https://img.shields.io/badge/rohanOmaske@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanOmaske@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+MERN+Stack+Developer;sudo+access+%3D%3D+Cybersecurity+Learner;status+%3D%3D+Building+Secure%2C+Scalable+Software" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0e27?style=for-the-badge&logo=googlechrome&logoColor=00ff9f&labelColor=0a0e27)](https://rohan-xtha.github.io/new-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00ff9f&labelColor=0a0e27)](https://www.linkedin.com/in/rohan-shrestha-379340367)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0a0e27?style=for-the-badge&logo=instagram&logoColor=00ff9f&labelColor=0a0e27)](https://instagram.com/rohan_stha/)
+[![Gmail](https://img.shields.io/badge/EMAIL-0a0e27?style=for-the-badge&logo=gmail&logoColor=00ff9f&labelColor=0a0e27)](mailto:rohanOmaske@gmail.com)
 
 </div>
 
-## 👋 About Me
+<br>
 
-```javascript
-const rohan = {
-    location: "Kathmandu, Nepal 🇳🇵",
-    education: "BSc (Hons) Software Engineering @ PCPS",
-    stack: "MERN (MongoDB · Express · React · Node.js)",
-    currentlyLearning: ["Advanced MERN patterns", "Cybersecurity fundamentals", "AI-assisted development"],
-    funFact: "I won 2nd place at my first hackathon! 🏆"
-};
+## `> whoami`
+
+```yaml
+name: Rohan Shrestha
+location: Kathmandu, Nepal 🇳🇵
+role: MERN Stack Developer | Aspiring Security Engineer
+education: BSc (Hons) Software Engineering @ PCPS
+focus:
+  - Building full-stack apps with the MERN stack
+  - Cybersecurity fundamentals — network security, secure coding, ethical hacking
+  - AI-assisted development — Copilot, Claude, ChatGPT in the dev workflow
+achievement: 🥈 2nd Place, Sankalpa Hackathon (Smart Parking Allocation System)
+mindset: "ship fast, ship secure"
 ```
 
-- 🔭 I'm currently building **full-stack apps with the MERN stack**
-- 🔐 I'm learning **cybersecurity fundamentals** — network security, secure coding & ethical hacking basics
-- 🤖 I'm exploring how **AI tools (Copilot, Claude, ChatGPT)** fit into a modern dev workflow — from scaffolding to secure code review
-- 🏆 **2nd Place** — Sankalpa Hackathon (Smart Parking Allocation System)
-- 💬 Ask me about **React, Node.js, Express, MongoDB, RESTful APIs, PostgreSQL**
-- ⚡ I love turning ideas into working, secure software!
+<br>
 
----
-
-## 🛠️ Tech Stack
+## `> tech_stack --list`
 
 <div align="center">
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-#### MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0a0e27?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0a0e27?style=flat-square&logo=postgresql&logoColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0e27?style=flat-square&logo=css3&logoColor=1572B6)
 
-#### Cybersecurity (Learning)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**MERN Stack**
 
-#### Tools & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0e27?style=flat-square&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/Express.js-0a0e27?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0e27?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0e27?style=flat-square&logo=nodedotjs&logoColor=339933)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0e27?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Security & Systems**
+
+![Cybersecurity](https://img.shields.io/badge/Security-Learning-0a0e27?style=flat-square&logo=hackthebox&logoColor=00ff9f)
+![Linux](https://img.shields.io/badge/Linux-0a0e27?style=flat-square&logo=linux&logoColor=FCC624)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0e27?style=flat-square&logo=wireshark&logoColor=1679A7)
+
+**Tools & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e27?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0a0e27?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Git](https://img.shields.io/badge/Git-0a0e27?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0e27?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-0a0e27?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0a0e27?style=flat-square&logo=postman&logoColor=FF6C37)
 
 </div>
 
----
+<br>
 
-## 🏆 Featured Projects
+## `> ls ./featured-projects`
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🅿️ Smart Parking System
 **🥈 2nd Place — Sankalpa Hackathon**
@@ -79,54 +83,57 @@ Full-stack smart parking management platform with real-time slot availability, a
 `React` `Node.js` `REST API` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚕 Taxi Booking System
+
 GUI-based taxi booking system with structured backend logic, input validation, booking workflows & record management using OOP.
 
 `Python` `OOP` `GUI`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rohan-xtha/taxi_booking_system)
+[![GitHub](https://img.shields.io/badge/View_Repo-0a0e27?style=flat-square&logo=github&logoColor=00ff9f)](https://github.com/rohan-xtha/taxi_booking_system)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=8b5cf6&text_color=9494a8" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=9494a8" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-xtha&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=ec4899&currStreakLabel=00d4ff&sideLabels=8b5cf6" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## `> git log --stats`
 
 <div align="center">
 
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-xtha&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00d4ff&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6)](https://github.com/rohan-xtha)
+<img src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff9f&icon_color=00ff9f&text_color=9494a8&ring_color=00ff9f" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff9f&text_color=9494a8" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-xtha&theme=github-dark-blue&hide_border=true&background=0a0e27&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=9494a8" />
 
 </div>
+
+<br>
+
+## `> ./contribution_graph.sh`
+
+<div align="center">
+
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-xtha&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f)](https://github.com/rohan-xtha)
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+### `> connect --with rohan`
 
-I'm always open to collaborating on **MERN stack projects**, security-minded builds, or just talking tech.
+Open to collaborating on **MERN stack projects**, **security-minded builds**, or anything at the intersection of **AI and secure software**.
 
-**📧 rohanOmaske@gmail.com** · **📍 Kathmandu, Nepal**
+**📧 rohanOmaske@gmail.com** &nbsp;·&nbsp; **📍 Kathmandu, Nepal**
 
-![Visitors](https://komarev.com/ghpvc/?username=rohan-xtha&style=for-the-badge&color=00d4ff)
+![Visitors](https://komarev.com/ghpvc/?username=rohan-xtha&style=for-the-badge&color=00ff9f&labelColor=0a0e27)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:8b5cf6,100:ec4899&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:00ff9f,100:0a0e27&height=120&section=footer)
