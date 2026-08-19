@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/assets/header.png" alt="Header Image" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/assets/header_with_name.svg" alt="Header Image with Name" width="100%"/>
 </div>
 
 <div align="center">
@@ -117,5 +117,5 @@ I'm a passionate <strong>Full Stack Developer</strong> who loves turning ideas i
 <br/>
 
 <div align="center">
-  <small>© 2024 YourName · Built with ❤️ and lots of ☕</small>
+  <small>© 2024 Rohan Shrestha · Built with ❤️ and lots of ☕</small>
 </div>
