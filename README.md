@@ -1,24 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm YOUR NAME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=220&section=header&text=ROHAN%20SHRESTHA&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SECURITY%20ENTHUSIAST&descSize=15&descAlignY=60&descColor=7DD3FC" width="100%"/>
 
-### `Developer` · `College Student` · `Tech Enthusiast` · `Gamer`
+<br>
+
+<img src="https://github.com/rohan-xtha.png" width="120" style="border-radius:50%;" alt="Rohan Shrestha"/>
+
+# Rohan Shrestha
+
+### `Full Stack Developer` · `Problem Solver` · `Aspiring Security Engineer`
 
 <p>
-<img src="https://img.shields.io/badge/🚀_Building-Cool_Things-0b1220?style=for-the-badge&labelColor=0b1220&color=2563eb">
-<img src="https://img.shields.io/badge/💡_Always-Learning-0b1220?style=for-the-badge&labelColor=0b1220&color=3b82f6">
-<img src="https://img.shields.io/badge/🎮_Game-Lover-0b1220?style=for-the-badge&labelColor=0b1220&color=60a5fa">
+<img src="https://img.shields.io/badge/🚀_Building-Cool_Things-0f172a?style=for-the-badge&labelColor=020617&color=0284c7">
+<img src="https://img.shields.io/badge/🔐_Learning-Security-0f172a?style=for-the-badge&labelColor=020617&color=0ea5e9">
+<img src="https://img.shields.io/badge/🎓_Software-Engineering-0f172a?style=for-the-badge&labelColor=020617&color=38bdf8">
 </p>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/rohan-xtha">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff">
 </a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=60a5fa">
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=60a5fa">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8">
 </a>
 </p>
 
@@ -26,37 +29,44 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
-I'm a college student who loves **technology, computers, games, and music**.
+I'm a **Full Stack Developer** who enjoys turning ideas into practical applications.
 
-I enjoy learning how things work, building projects, experimenting with new technologies, and turning ideas into something real.
+I primarily build with the **MERN stack** while expanding my knowledge of **cybersecurity**, with a growing focus on network security, secure coding, and ethical hacking fundamentals.
 
-- 💻 Programming & Computers
-- 🎮 Games & Game Development
-- 🎵 Music
-- 🌐 Web Development
-- 🧠 Learning New Technologies
-- 🛠️ Building Personal Projects
-- 🚀 Exploring New Ideas
+I like understanding how systems work under the hood, experimenting with new technologies, and building projects that solve actual problems.
+
+<br>
+
+```text
+┌──────────────────────────────────────────┐
+│  Currently building     →  Web Apps      │
+│  Currently learning     →  Cybersecurity │
+│  Main stack             →  MERN          │
+│  Exploring              →  Security      │
+│  Goal                   →  Build better  │
+└──────────────────────────────────────────┘
+```
 
 </td>
 
-<td width="35%">
+<td width="35%" valign="top">
 
-| ABOUT ME |
-|:---|
-| 📍 Nepal |
-| 🎓 College Student |
-| 💻 Developer |
-| 🎮 Gamer |
-| 🎵 Music Lover |
-| 🧠 Always Learning |
-| 🚀 Building Things |
+### 📍 Quick Info
+
+|              |                      |
+| ------------ | -------------------- |
+| 🌏 Location  | Kathmandu, Nepal     |
+| 🎓 Education | Software Engineering |
+| 💻 Role      | Full Stack Developer |
+| 🔐 Interest  | Cybersecurity        |
+| 🟢 Status    | Open to Collaborate  |
+| ☕ Fuel       | Coffee + Code        |
 
 </td>
 </tr>
@@ -64,43 +74,45 @@ I enjoy learning how things work, building projects, experimenting with new tech
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,docker,vscode,linux,figma&perline=10">
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,py,html,css&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohan-xtha&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=0EA5E9&ring_color=0EA5E9&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-xtha&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0b1220&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=64748b">
-
-</div>
-
----
-
-## 🌌 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0b1220&color=93c5fd&line=3b82f6&point=60a5fa&area=true&hide_border=true">
+<img width="75%" src="https://streak-stats.demolab.com?user=rohan-xtha&hide_border=true&background=020617&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" />
 
 </div>
 
@@ -108,82 +120,43 @@ I enjoy learning how things work, building projects, experimenting with new tech
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Project One
+<h3>🅿️ Smart Parking System</h3>
 
-A modern project built to solve a real-world problem.
+<p>
+<b>🥈 2nd Place · Sankalpa Hackathon</b>
+</p>
 
-**Technology**
-
-`React` `TypeScript` `Node.js`
+A full-stack smart parking platform designed around **real-time parking availability, automated booking, and efficient space utilization**.
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=68A063">
+<img src="https://img.shields.io/badge/REST_API-0f172a?style=flat-square&logo=fastapi&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1">
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Project Two
+<h3>🚕 Taxi Booking System</h3>
 
-A powerful application focused on performance and usability.
+<p>
+<b>Object-Oriented Application</b>
+</p>
 
-**Technology**
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 Project Three
-
-An experimental project inspired by games and interactive experiences.
-
-**Technology**
-
-`JavaScript` `React` `Three.js`
+A GUI-based taxi booking system built around **structured backend logic, input validation, record management, and object-oriented programming principles**.
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧩 Project Four
-
-A collection of reusable components and development tools.
-
-**Technology**
-
-`React` `Tailwind` `TypeScript`
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-1e40af?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/OOP-0f172a?style=flat-square&logo=python&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/GUI-0f172a?style=flat-square&logo=python&logoColor=60A5FA">
 
 </td>
 
@@ -192,110 +165,89 @@ A collection of reusable components and development tools.
 
 ---
 
-## 🧊 What I'm Doing
+## 🔐 Security Journey
 
-<table>
+<div align="center">
+
+<table width="90%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 💻
+### 🌐
 
-**CODING**
+**NETWORK SECURITY**
 
-Building projects and learning development.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎮
-
-**GAMING**
-
-Exploring games and interactive worlds.
+Understanding networks, protocols, and common security concepts.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🎵
+### 🛡️
 
-**MUSIC**
+**SECURE CODING**
 
-Listening to music while creating.
+Learning to build applications with security in mind.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🧠
+### 🧪
 
-**LEARNING**
+**ETHICAL HACKING**
 
-Exploring new technology.
+Exploring security testing and offensive security fundamentals.
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-<table>
+<table width="100%">
 <tr>
-<td>
 
-💻 **Building**
+<td width="50%" valign="top">
 
-Personal projects and experiments
+### 💻 Development
 
-</td>
-<td>
-
-🌱 **Learning**
-
-Modern web technologies
+* Building full-stack applications
+* Improving React & Node.js skills
+* Working with databases and APIs
+* Writing cleaner, maintainable code
 
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="50%" valign="top">
 
-🎮 **Exploring**
+### 🔐 Cybersecurity
 
-Game development
-
-</td>
-<td>
-
-🎵 **Enjoying**
-
-Music while coding
+* Network security fundamentals
+* Secure application development
+* Linux & security tooling
+* Ethical hacking fundamentals
 
 </td>
-</tr>
 
-<tr>
-<td>
-
-🧠 **Improving**
-
-Programming skills
-
-</td>
-<td>
-
-🚀 **Creating**
-
-Things worth sharing
-
-</td>
 </tr>
 </table>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-xtha&bg_color=020617&color=7DD3FC&line=0284C7&point=38BDF8&area=true&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
@@ -303,56 +255,36 @@ Things worth sharing
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1">
+<img src="https://github-profile-trophy.vercel.app/?username=rohan-xtha&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge">
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-### Let's build something cool together.
+### `Let's build something useful. Let's learn something new.`
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/rohan-xtha">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=60a5fa">
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rohan-xtha&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge">
+
+<br><br>
+
+<sub>© 2026 Rohan Shrestha · Built with 🩵 and lots of ☕</sub>
 
 </div>
 
----
-
-<div align="center">
-
-### 🌙 Keep building. Keep learning. Keep exploring.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f2a55,100:2563eb&height=120&section=footer">
-
-<br>
-
-<sub>Built with 💙 and lots of ☕</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=120&section=footer" width="100%"/>
