@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:8b5cf6,100:ec4899&height=230&section=header&text=Rohan%20Shrestha&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:8b5cf6,100:ec4899&height=230&section=header&text=Rohan%20Shrestha&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Aspiring%20Security%20Engineer&descSize=18&descAlignY=55&animation=fadeIn)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rohan-xtha.github.io/new-portfolio/)
 [![Instagram](https://img.shields.io/badge/@rohan__stha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohan_stha/)
@@ -15,16 +15,18 @@
 const rohan = {
     location: "Kathmandu, Nepal 🇳🇵",
     education: "BSc (Hons) Software Engineering @ PCPS",
-    currentlyLearning: ["Advanced React Patterns", "System Design"],
+    stack: "MERN (MongoDB · Express · React · Node.js)",
+    currentlyLearning: ["Advanced MERN patterns", "Cybersecurity fundamentals", "AI-assisted development"],
     funFact: "I won 2nd place at my first hackathon! 🏆"
 };
 ```
 
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 I'm learning **React, Node.js & Python** ecosystem deeply
+- 🔭 I'm currently building **full-stack apps with the MERN stack**
+- 🔐 I'm learning **cybersecurity fundamentals** — network security, secure coding & ethical hacking basics
+- 🤖 I'm exploring how **AI tools (Copilot, Claude, ChatGPT)** fit into a modern dev workflow — from scaffolding to secure code review
 - 🏆 **2nd Place** — Sankalpa Hackathon (Smart Parking Allocation System)
-- 💬 Ask me about **React, Node.js, RESTful APIs, PostgreSQL**
-- ⚡ I love turning ideas into working software!
+- 💬 Ask me about **React, Node.js, Express, MongoDB, RESTful APIs, PostgreSQL**
+- ⚡ I love turning ideas into working, secure software!
 
 ---
 
@@ -39,14 +41,20 @@ const rohan = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frameworks & Libraries
+#### MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+#### Cybersecurity (Learning)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 #### Tools & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -113,7 +121,7 @@ GUI-based taxi booking system with structured backend logic, input validation, b
 
 ### 💬 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing tech.
+I'm always open to collaborating on **MERN stack projects**, security-minded builds, or just talking tech.
 
 **📧 rohanOmaske@gmail.com** · **📍 Kathmandu, Nepal**
 
