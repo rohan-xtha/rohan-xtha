@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:020617,50:0b1628,100:020617&height=260&section=header&text=Hi,%20I'm%20Rohan&fontSize=44&fontColor=93C5FD&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Security%20Enthusiast&descSize=15&descColor=CBD5E1&descAlignY=58" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rohan-xtha/rohan-xtha/main/assets/header.png" alt="Header Image" width="100%"/>
 </div>
 
 <div align="center">
