@@ -97,16 +97,13 @@ I'm a passionate <strong>Full Stack Developer</strong> who loves turning ideas i
 <div align="center">
 <h3>🤝 Connect With Me</h3>
 <p>Let's connect and build something amazing together!</p>
-  <a href="https://rohan-xtha.github.io" target="_blank">
+ <a href="https://new-portfolio-nine-ashen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=user&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/rohan-xtha" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-shrestha-379340367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/rohan_xtha" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0B1220?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:rohan.xtha@email.com">
+  <a href="mailto:rohan0maske@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
