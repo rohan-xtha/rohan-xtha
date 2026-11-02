@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://new-portfolio-nine-ashen.vercel.app/" target="_blank">
+  <a href="https://rohan-xtha.github.io/new-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=user&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rohan-shrestha-379340367/" target="_blank">
